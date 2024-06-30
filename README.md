@@ -1,6 +1,8 @@
+<img width=100% bottom=50px src="https://github.com/nayaradellamura/nayaradellamura/assets/168658191/6a936cd7-448d-492d-95ff-ef2512cbbfe7"/>
+<br>
+<br> 
 
-## Olá! eu sou a Nayara Dellamura 🤗💕
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C61C62&random=false&width=435&lines=Hello!+My+name+is+Nayara+Dellamura;I'm+20+years+old;I'm+from+Brazil;I'm+studying+to+be+a+software+developer)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C61C62&random=false&width=435&lines=Hello!+My+name+is+Nayara+Dellamura;I'm+20+years+old;I'm+from+Brazil;I'm+studying+to+be+a+software+developer)
 
 ### Contacts:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-dellamura)
