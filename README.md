@@ -2,7 +2,7 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C61C62&random=false&width=435&lines=Hello!+My+name+is+Nayara+Dellamura;I'm+20+years+old;I'm+from+Brazil;Information+systems+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C61C62&random=false&width=435&lines=Hello!+my+name+is+Nayara+Dellamura;Studying+Information+System)](https://git.io/typing-svg)
 
 ### Contacts:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-dellamura)
