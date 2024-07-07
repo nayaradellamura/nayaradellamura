@@ -1,12 +1,18 @@
-<img width=100% bottom=50px src="https://github.com/nayaradellamura/nayaradellamura/assets/168658191/6a936cd7-448d-492d-95ff-ef2512cbbfe7"/>
+<img width=30% bottom=50px src="https://github.com/nayaradellamura/nayaradellamura/assets/168658191/b53bfd1b-c1bc-4369-9cad-e114a1c04aba"/>
 <br>
 <br> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C61C62&random=false&width=435&lines=Hello!+my+name+is+Nayara+Dellamura;Studying+Information+System)](https://git.io/typing-svg)
+<br>
+<br> 
 
 ### Contacts:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-dellamura)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19991477499)
+<br>
+<br> 
+<br>
+<br> 
 
 <div>
     <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=nayaradellamura&theme=radical&mode=weekly" />
