@@ -7,7 +7,6 @@
 ### Contacts:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-dellamura)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19991477499)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/nay_dellamura)
 
 <div>
     <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=nayaradellamura&theme=radical&mode=weekly" />
