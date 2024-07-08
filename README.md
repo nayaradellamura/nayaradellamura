@@ -14,7 +14,10 @@
 <br>
 <br> 
 
-
+<div>
+    <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=nayaradellamura&theme=radical&mode=weekly" />
+    <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=nayaradellamura&show_icons=true&theme=radical&layout=compact" />
+</div>
 
 <div align="center" >
     
