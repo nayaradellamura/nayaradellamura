@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C61C62&random=false&width=435&lines=Hello!+my+name+is+Nayara+Dellamura;Studying+Information+System)](https://git.io/typing-svg)
 <br>
-<br> 
+<br>
 
 ### Contacts:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-dellamura)
