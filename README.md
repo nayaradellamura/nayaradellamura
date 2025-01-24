@@ -2,7 +2,7 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C61C62&random=false&width=435&lines=Hello!+my+name+is+Nayara+Dellamura;Studying+Information+System)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AA3561&width=435&lines=Hello!+my+name+is+Nayara+Dellamura)](https://git.io/typing-svg)
 <br>
 <br>
 
