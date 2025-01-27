@@ -1,8 +1,7 @@
 <img width=30% bottom=50px src="https://github.com/nayaradellamura/nayaradellamura/assets/168658191/b53bfd1b-c1bc-4369-9cad-e114a1c04aba"/>
 <br>
 <br> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AA3561&width=435&lines=Hello!+my+name+is+Nayara+Dellamura)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+world+%E2%98%95%EF%B8%8E;my+name+is+Nayara)](https://git.io/typing-svg)
 <br>
 <br>
 
