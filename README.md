@@ -1,11 +1,8 @@
 <img width=30% bottom=50px src="https://github.com/nayaradellamura/nayaradellamura/assets/168658191/b53bfd1b-c1bc-4369-9cad-e114a1c04aba"/>
 <br>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72070&width=435&lines=Hello%2C+my+name+is+Nayara+" alt="Typing SVG" /></a>
 <br>
-<br>
-<br>
-<br> 
+
 
 <div align="center" >
     
