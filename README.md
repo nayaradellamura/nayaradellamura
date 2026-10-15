@@ -1,4 +1,4 @@
-<!-- Cabeçalho / Imagem Inicial -->
+<!--  Imagem  -->
 <div align="center">
   <img width="30%" src="https://github.com/nayaradellamura/nayaradellamura/assets/168658191/b53bfd1b-c1bc-4369-9cad-e114a1c04aba"/>
 </div>
@@ -12,12 +12,6 @@
 
 <br />
 
-<!-- Estatísticas / Linguagens mais usadas (Usando o endpoint oficial) -->
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayaradellamura&show_icons=true&theme=radical&layout=compact" alt="Linguagens mais utilizadas" />
-</div>
-
-<br />
 
 <!-- Rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C61C62&height=120&section=footer"/>
